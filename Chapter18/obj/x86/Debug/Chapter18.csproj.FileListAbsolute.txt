@@ -1,0 +1,6 @@
+E:\Program\C#本质论源代码\Chapter18\bin\Debug\Program.cs
+E:\Program\C#本质论源代码\Chapter18\bin\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter18.exe
+E:\Program\C#本质论源代码\Chapter18\bin\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter18.pdb
+E:\Program\C#本质论源代码\Chapter18\obj\x86\Debug\Chapter18.csprojResolveAssemblyReference.cache
+E:\Program\C#本质论源代码\Chapter18\obj\x86\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter18.exe
+E:\Program\C#本质论源代码\Chapter18\obj\x86\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter18.pdb

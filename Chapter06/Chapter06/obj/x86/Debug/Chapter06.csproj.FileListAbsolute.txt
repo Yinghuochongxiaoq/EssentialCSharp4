@@ -1,0 +1,6 @@
+E:\Program\C#本质论源代码\Chapter06\Chapter06\bin\Debug\Program.cs
+E:\Program\C#本质论源代码\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+E:\Program\C#本质论源代码\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+E:\Program\C#本质论源代码\Chapter06\Chapter06\obj\x86\Debug\Chapter06.csprojResolveAssemblyReference.cache
+E:\Program\C#本质论源代码\Chapter06\Chapter06\obj\x86\Debug\Chapter06.exe
+E:\Program\C#本质论源代码\Chapter06\Chapter06\obj\x86\Debug\Chapter06.pdb

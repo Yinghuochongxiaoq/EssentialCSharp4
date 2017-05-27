@@ -1,0 +1,5 @@
+E:\Program\C#本质论源代码\Chapter05\Chapter05\bin\Debug\Program.cs
+E:\Program\C#本质论源代码\Chapter05\Chapter05\bin\Debug\Chapter05.exe
+E:\Program\C#本质论源代码\Chapter05\Chapter05\bin\Debug\Chapter05.pdb
+E:\Program\C#本质论源代码\Chapter05\Chapter05\obj\x86\Debug\Chapter05.exe
+E:\Program\C#本质论源代码\Chapter05\Chapter05\obj\x86\Debug\Chapter05.pdb

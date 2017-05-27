@@ -1,0 +1,8 @@
+E:\Program\C#本质论源代码\Chapter08\Chapter08\bin\Debug\enumtest.txt
+E:\Program\C#本质论源代码\Chapter08\Chapter08\bin\Debug\enumtest2.txt
+E:\Program\C#本质论源代码\Chapter08\Chapter08\bin\Debug\Program.cs
+E:\Program\C#本质论源代码\Chapter08\Chapter08\bin\Debug\Chapter08.exe
+E:\Program\C#本质论源代码\Chapter08\Chapter08\bin\Debug\Chapter08.pdb
+E:\Program\C#本质论源代码\Chapter08\Chapter08\obj\x86\Debug\Chapter08.csprojResolveAssemblyReference.cache
+E:\Program\C#本质论源代码\Chapter08\Chapter08\obj\x86\Debug\Chapter08.exe
+E:\Program\C#本质论源代码\Chapter08\Chapter08\obj\x86\Debug\Chapter08.pdb

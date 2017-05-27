@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{714EB5AB-A5D4-4D8B-8DA0-B69DDAFD52F6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AddisonWesley.Michaelis.EssentialCSharp.Shared</RootNamespace>
+    <AssemblyName>AddisonWesley.Michaelis.EssentialCSharp.Chapter18</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PlatformTarget>x86</PlatformTarget>
+    <StartupObject>AddisonWesley.Michaelis.EssentialCSharp.Shared.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Listing18.02.ReturningAResultFromTask.cs" />
+    <Compile Include="Listing18.06.CancelingATaskUsingCancellationToken.cs" />
+    <Compile Include="Listing18.17.CancelingWithAPLinqQuery.cs" />
+    <Compile Include="Listing18.18.StartingMethodUsingThread.cs" />
+    <Compile Include="Listing18.19.AynchronousCallsUsingThreadPool.cs" />
+    <Compile Include="Listing18.16.ParallelLinqWithQueryExpressions.cs" />
+    <Compile Include="Listing18.14.ParallelLinqSelect.cs" />
+    <Compile Include="Listing18.01.StartingMethodInSeparateThread.cs" />
+    <Compile Include="Listing18.15.ParallelLinqWithStandardQueryOperators.cs" />
+    <Compile Include="Listing18.03.RegisteringForNotifactionsWithContinueWith.cs" />
+    <Compile Include="Listing18.04.HandlingATasksUnhandledException.cs" />
+    <Compile Include="Listing18.11.UnhandledExceptionHandlingForParallelIterations.cs" />
+    <Compile Include="Listing18.13.LinqSelect.cs" />
+    <Compile Include="Listing18.12.CancelingAParallelLoop.cs" />
+    <Compile Include="Listing18.10.ParallelExecutionOfAForeachLoop.cs" />
+    <Compile Include="Cryptographer.cs" />
+    <Compile Include="Listing18.05.UnhandledExceptionsUsingContinueWith.cs" />
+    <Compile Include="Listing18.08.LoopSynchronouslyCalculatingPiInSections.cs" />
+    <Compile Include="Listing18.09.StartingMethodInSeparateThread.cs" />
+    <Compile Include="..\Shared\PiCalculator+InternalPiDigitCalculator.cs">
+      <Link>PiCalculator+InternalPiDigitCalculator.cs</Link>
+    </Compile>
+    <Compile Include="..\Shared\PiCalculator.cs">
+      <Link>PiCalculator.cs</Link>
+    </Compile>
+    <Compile Include="Listing18.20.RegisteringForUnhandledExceptions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

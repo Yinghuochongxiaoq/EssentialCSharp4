@@ -1,0 +1,5 @@
+E:\Program\C#本质论源代码\Chapter17\bin\Debug\enumtest.txt
+E:\Program\C#本质论源代码\Chapter17\bin\Debug\Chapter17.exe
+E:\Program\C#本质论源代码\Chapter17\bin\Debug\Chapter17.pdb
+E:\Program\C#本质论源代码\Chapter17\obj\x86\Debug\Chapter17.exe
+E:\Program\C#本质论源代码\Chapter17\obj\x86\Debug\Chapter17.pdb

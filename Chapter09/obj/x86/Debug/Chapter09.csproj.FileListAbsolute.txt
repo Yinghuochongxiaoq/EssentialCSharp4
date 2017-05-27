@@ -1,0 +1,8 @@
+E:\Program\C#本质论源代码\Chapter09\bin\Debug\Program.cs
+E:\Program\C#本质论源代码\Chapter09\bin\Debug\Chapter09.exe
+E:\Program\C#本质论源代码\Chapter09\bin\Debug\Chapter09.pdb
+E:\Program\C#本质论源代码\Chapter09\bin\Debug\AppendixB.dll
+E:\Program\C#本质论源代码\Chapter09\bin\Debug\AppendixB.pdb
+E:\Program\C#本质论源代码\Chapter09\obj\x86\Debug\Chapter09.csprojResolveAssemblyReference.cache
+E:\Program\C#本质论源代码\Chapter09\obj\x86\Debug\Chapter09.exe
+E:\Program\C#本质论源代码\Chapter09\obj\x86\Debug\Chapter09.pdb

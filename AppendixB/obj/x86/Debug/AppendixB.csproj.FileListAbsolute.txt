@@ -1,0 +1,5 @@
+E:\Program\C#本质论源代码\AppendixB\bin\Debug\AppendixB.dll
+E:\Program\C#本质论源代码\AppendixB\bin\Debug\AppendixB.pdb
+E:\Program\C#本质论源代码\AppendixB\obj\x86\Debug\AppendixB.csprojResolveAssemblyReference.cache
+E:\Program\C#本质论源代码\AppendixB\obj\x86\Debug\AppendixB.dll
+E:\Program\C#本质论源代码\AppendixB\obj\x86\Debug\AppendixB.pdb

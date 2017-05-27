@@ -1,0 +1,8 @@
+E:\Program\C#本质论源代码\Chapter19\bin\Debug\PiCalculator+InternalPiDigitCalculator.cs
+E:\Program\C#本质论源代码\Chapter19\bin\Debug\PiCalculator.cs
+E:\Program\C#本质论源代码\Chapter19\bin\Debug\Program.cs
+E:\Program\C#本质论源代码\Chapter19\bin\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter19.exe
+E:\Program\C#本质论源代码\Chapter19\bin\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter19.pdb
+E:\Program\C#本质论源代码\Chapter19\obj\x86\Debug\Chapter19.csprojResolveAssemblyReference.cache
+E:\Program\C#本质论源代码\Chapter19\obj\x86\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter19.exe
+E:\Program\C#本质论源代码\Chapter19\obj\x86\Debug\AddisonWesley.Michaelis.EssentialCSharp.Chapter19.pdb
